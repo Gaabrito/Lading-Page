@@ -34,7 +34,7 @@ h1 {
 }
 
 h2 {
-    font-size: 5.5rem;
+    font-size: 6rem;
     margin-bottom: 5rem;
     text-transform: uppercase;
     line-height: 1.2;
@@ -70,7 +70,7 @@ p {
 }
 
 table {
-    min-width: 36rem;
+    min-width: 360px;
     width: 100%;
     border-collapse: collapse;
 }
@@ -116,7 +116,12 @@ tfoot td, table th {
 }
 
 .menu-spacing {
-    height: 6.5rem;
+    height: 65px;
+}
+
+body .full-width {
+    width: 100%;
+    flex: 1 1 100%;
 }
 
 .menu {
@@ -177,7 +182,6 @@ tfoot td, table th {
 
 .intro-content {
     position: relative;
-    /*top: -8rem;*/
     display: grid;
     grid-template-columns: 1fr 1.5fr;
     gap: var(--gap);
@@ -188,13 +192,6 @@ tfoot td, table th {
     display: flex;
     flex-flow: column wrap;
     justify-content: center;
-}
-
-.intro-text-content h2 {
-    font-size: 8rem;
-    margin-bottom: 5rem;
-    text-transform: uppercase;
-    line-height: 1.2;
 }
 
 .intro-img img {
@@ -238,7 +235,7 @@ tfoot td, table th {
     font-size: 3rem;
     position: relative;
     padding-left: 5rem;
-    padding-bottom: 3rem;
+    padding-bottom: 2rem;
 }
 
 .grid h3::before {
@@ -264,7 +261,7 @@ tfoot td, table th {
 }
 
 .gallery-img img:hover {
-    transform: translate(-3%, -3%) scale(1.2) rotate(5deg);
+    transform: translate(-3%, 3%) scale(1.2) rotate(5deg);
 }
 
 .contact-form {
@@ -286,7 +283,7 @@ tfoot td, table th {
 }
 
 .form-group {
-    flex: 1 1 32rem;
+    flex: 1 1 320px;
 }
 
 .form-group label {
@@ -301,11 +298,7 @@ tfoot td, table th {
     padding: 1.5rem 2rem;
     width: 100%;
     font-size: 3rem;
-}
-
-body .full-width {
-    width: 100%;
-    flex: 1 1 100%;
+    outline: none;
 }
 
 .form-group button {
@@ -374,7 +367,6 @@ body .full-width {
         width: 100%;
         max-width: 100%;
         max-height: 100%;
-        overflow: hidden;
     }
     
     .gallery-img img {
