@@ -4,7 +4,8 @@ Um modelo simples de landing page podendo ser alterável de acordo com necessida
 
 ## Acesse o projeto
 
-Você pode ver o projeto em funcionamento clicando <a href="https://simplemodellandingpage.netlify.app" target="_blank">aqui</a>.
+Você pode ver o projeto em funcionamento clicando <a href="https://simplemodellandingpage.netlify.app" target="_blank">aqui</a>. <br>
+Ou copiando o link: https://simplemodellandingpage.netlify.app
 
 ## Começando
 
@@ -15,7 +16,7 @@ Você pode ver o projeto em funcionamento clicando <a href="https://simplemodell
 
 ### Instalação
 
-1. Download the ZIP file or clone the repository
+1. Instale o arquivo ZIP ou clone o repositório.
 
 ```sh
 git clone https://github.com/GabrielFelip/Landing-Page.git
