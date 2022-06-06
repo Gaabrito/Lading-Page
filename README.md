@@ -1,4 +1,4 @@
-# Landing-Page
+<h1 align="center"> Landing Page </h1>
 
 Um modelo simples de landing page podendo ser alterável de acordo com necessidades.
 
@@ -16,7 +16,7 @@ Ou copiando o link: https://simplemodellandingpage.netlify.app
 
 ### Instalação
 
-1. Instale o arquivo ZIP ou clone o repositório.
+1. Clone o repositório.
 
 ```sh
 git clone https://github.com/GabrielFelip/Landing-Page.git
