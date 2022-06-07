@@ -2,19 +2,19 @@
 
 Um modelo simples de landing page podendo ser alterável de acordo com necessidades.
 
-## Acesse o projeto
+## ☕ Acesse a Landing Page
 
 Você pode ver o projeto em funcionamento clicando <a href="https://simplemodellandingpage.netlify.app" target="_blank">aqui</a>. <br>
 Ou copiando o link: https://simplemodellandingpage.netlify.app
 
-## Começando
+## 🚀 Instalando a Landing Page
 
-### Pré-requisitos
+### 💻 Pré-requisitos
 
 * Visual Studio Code
 * Chrome (ou outro navegador se preferir)
 
-### Instalação
+### 🚀 Instalação
 
 1. Clone o repositório.
 
@@ -22,7 +22,7 @@ Ou copiando o link: https://simplemodellandingpage.netlify.app
 git clone https://github.com/GabrielFelip/Landing-Page.git
 ```
 
-## Construído com
+## :construction: Construído com
 
 Linguagens usadas neste projeto: 
 
